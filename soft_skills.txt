@@ -1,0 +1,1 @@
+herramientas de manejo: word, excel, power point, gitkraken, github, visual code
